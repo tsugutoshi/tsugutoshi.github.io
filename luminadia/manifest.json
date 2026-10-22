@@ -1,0 +1,16 @@
+{
+  "name": "Luminadia − 開運数秘術 日運数アプリ",
+  "short_name": "Luminadia",
+  "lang": "ja",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FBF8EE",
+  "theme_color": "#FBF8EE",
+  "description": "今日の数字・カラー・シンボルから、毎日のヒントを。",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
